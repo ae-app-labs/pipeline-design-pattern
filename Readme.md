@@ -1,4 +1,4 @@
-#pipeline design pattern
+# pipeline design pattern 
 This is an example project that implements the Pipeline Design Pattern.
 A pipeline can be used to process information in a sequence where the output of a stage serves as the input to the next stage.
 
